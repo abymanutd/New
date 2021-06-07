@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
-  AWS ABY Demo on CloudFormation Template Demo: This template shows how to create
+ Demo: This template shows how to create
    a single EC2 instance with an Elastic IP address
 Parameters:
   InstanceType:
