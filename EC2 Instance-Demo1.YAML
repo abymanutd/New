@@ -1,7 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
- Demo: This template shows how to create
-   a single EC2 instance with an Elastic IP address
+ Create Ec2 and EIP for demo only
 Parameters:
   InstanceType:
     Description: WebServer EC2 instance type
